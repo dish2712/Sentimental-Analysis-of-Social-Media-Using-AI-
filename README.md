@@ -1,2 +1,2 @@
 # Sentimental-Analysis-of-Social-Media-Using-AI-
-This project uses AI and Natural Language Processing to analyze sentiments from social media posts. This link contains the project code and the result images. 
+This project analyzes user sentiments from social media platforms using AI and Natural Language Processing. It classifies posts and comments as positive, negative, or neutral, helping to understand public opinion and trends. The system uses machine learning models to process and interpret large volumes of text data, providing insights through sentiment visualization.
